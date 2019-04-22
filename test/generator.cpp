@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <string>
+#include <fstream>
+#include <iostream>
 const int MAXURL = 1e5;
 const int MAXCOUNT = 100;
 const int MAXLEN = 20;

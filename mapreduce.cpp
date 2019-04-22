@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+#include <cstdio>
+#include <vector>
+#include <algorithm>
+#include <fstream>
+#include <iostream>
+#include <unordered_map>
 const int MAXBLOCK = 2e3; // max blocks in 
 const int BASE = 97; // used as hash value
 const int MAXOCCRC = 100; // the number of url we want to get at last
